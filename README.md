@@ -60,3 +60,9 @@ This repository contains three machine learning projects completed during my **O
    ```bash
    pip install -r requirements.txt
 3. Open any notebook using Jupyter or Google Colab to run.
+
+
+## 🏁 Final Note
+These projects were completed as part of my learning journey during the CodeAlpha internship. Each one showcases a different aspect of machine learning, from classification to deep learning.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/smfaisal-/) or reach out for collaboration!
